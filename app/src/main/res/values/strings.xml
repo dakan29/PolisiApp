@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PolisiApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    fragment strings-->
+    <!--    title-->
+    <string name="fragment_title1">Say no to Violence</string>
+    <string name="fragment_title2">Report to us</string>
+    <string name="fragment_title3">Keep us all safe</string>
+    <!--    descriptions-->
+    <string name="fragment_desc1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium beatae delectus ducimus, eius esse explicabo harum incidunt labore laudantium molestiae nesciunt nisi omnis perferendis, ratione unde voluptas voluptatibus. Ex, repudiandae!</string>
+    <string name="fragment_desc2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem doloribus excepturi expedita facere id illum iste neque odit, optio, perferendis repellendus suscipit totam! Architecto, debitis, magnam. Culpa nam necessitatibus nobis?</string>
+    <string name="fragment_desc3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aperiam dicta distinctio doloremque, ea et exercitationem libero molestiae natus necessitatibus numquam odio perferendis recusandae! Delectus doloremque dolorum reiciendis sequi ut?</string>
+
+</resources>
